@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "image": "https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_webp,q_auto:eco/resources/0-0-1z5206541/portrait/1920x77046f5d4cfbcf54b35a03d625a6d608350e17a51502d9a4236a9e1da8c5b58e805.jpg",
+    "rating": "4.5",
+    "name": "Vikrant Rona"
+  },
+  {
+    "id": "2",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTVhMzYxNjgtYzYwOC00MGIwLWJmZGEtMjgwMzgxMWUwNmRhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+    "rating": "4.5",
+    "name": "Dora"
+  },
+  {
+    "id": "3",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/p_aladdin2019_17638_d53b09e6.jpeg",
+    "rating": "4.5",
+    "name": "Aladin"
+  },
+  {
+    "id": "4",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/p_blackwidow_21043_v2_6d1b73b8.jpeg",
+    "rating": "4.5",
+    "name": "Black Widow"
+  },
+  {
+    "id": "5",
+    "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:q-80/et00063710-ypufxsdszx-portrait.jpg",
+    "rating": "4.5",
+    "name": "Brahmastra"
+  },
+  {
+    "id": "6",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+    "rating": "4.5",
+    "name": "Scary "
+  },
+  {
+    "id": "7",
+    "image": "https://www.themoviedb.org/t/p/w220_and_h330_face/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+    "rating": "4.5",
+    "name": "SpiderMan"
+  },
+  {
+    "id": "8",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWI2ODNjMDktZjcxNS00YThkLTljMDUtMGIyOTg3ZjY2MjlhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "rating": "4.5",
+    "name": "Major"
+  },
+  {
+    "id": "9",
+    "image": "https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_webp,q_auto:eco/resources/0-0-1z5210106/portrait/1920x77063edff19d45b43489cf6480676d21d33.jpg",
+    "rating": "4.5",
+    "name": "Khuda Haafiz"
+  }
+]
